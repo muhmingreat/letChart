@@ -1,6 +1,5 @@
 {
   "name": "frontend",
-  "proxy":"http://5100/api",
   "private": true,
   "version": "0.0.0",
   "type": "module",
